@@ -51,10 +51,16 @@ span.special{
 }
 
 .if{
+    
     font-size:56px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    position: relative;
-    top:50px; left:-400px;   
+    rotate: 90deg;
+    margin: 50px;
+    padding-top: 50px;
+    /* padding-left: 200px; */
+    text-align: left;
+    position:absolute;
+    top:280px; left:80px;
     
 }
 
